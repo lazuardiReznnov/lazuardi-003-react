@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.warna{
+  background: plum;
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 20px;
+  font-size: 1em;
 }
